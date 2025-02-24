@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="tvTitulo">Gestion de Usuario</string>
+    <string name="etDocumento">Ingrese el documento</string>
+    <string name="etUsuario">Ingrese el usuario</string>
+    <string name="etNombre">Ingrese los Nombres</string>
+    <string name="etApellidos">Ingrese los Apellidos</string>
+    <string name="etContraseña">Ingrese la Contraseña</string>
+
+    <string name="btnRegistrar">Guardar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnListar">listar</string>
+    <string name="btnBorrar">Borrar</string>
+
+</resources>
